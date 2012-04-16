@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		= "com.adrocknaphobia.phonegapvideo"
-	version 	= "1.0.0">
+	id		= "com.adrocknaphobia.phonegapdemo"
+	version 	= "0.1.0">
 
-	<name>PhoneGap Video</name>
+	<name>PhoneGap Demo</name>
 
 	<description>
-		Let's see if we can pull Scene7 video into a PhoneGap application!
+		A demo application I hack on to show how awesome PhoneGap is.
 	</description>
 
 	<author href="http://www.github.com/adrocknaphobia"
